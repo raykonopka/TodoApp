@@ -240,3 +240,8 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+### VisualStudio Patch ###
+build/
+/TodoApp/TodoApp.DataAccess/App.config
+/TodoApp/TodoApp.Tests/App.config
